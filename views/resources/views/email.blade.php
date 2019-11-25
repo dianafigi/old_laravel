@@ -1,0 +1,1 @@
+<p>O teu email é: {{$email}}</p>
